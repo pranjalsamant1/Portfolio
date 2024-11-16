@@ -3,18 +3,18 @@
 #### Technical Skills: C, C#, C++, Python, MATLAB, ROS, DDS, Webots, OpenCV
 
 ## Education
-- **MSc Robotics** | Heriot-Watt University, Edinburgh, UK (_2023 - 2024_)
-- **B-Tech in Electronics and Communication Engineering** | SRM University, Chennai, India (_2018 - 2022_)
+- MSc, Robotics | Heriot-Watt University, Edinburgh, UK (_2023 - 2024_)
+- B-Tech, Electronics and Communication Engineering | SRM University, Chennai, India (_2018 - 2022_)
 
 ## Work Experience
 
-**Intern Engineer @ National Robotarium** (_June 2023 - October 2023_)  
+**Intern Engineer @ National Robotarium (_June 2023 - October 2023_)**  
 - Developed ROS-based control systems for a robotic arm (Franka Emmika) using MoveIt and motion planning algorithms, enhancing precision and automation.
 - Implemented vision-based object detection and tracking (YOLOv5, Intel RealSense) to improve robotic accuracy and reliability in automation tasks.
 - Optimized and tested robotic subsystems, including suction and sensor mechanisms, ensuring safety and performance.
 - Developed modular software architecture with Python and C++ for streamlined communication between control systems and robotic hardware.
 
-**Intern @ CDAC** (_January 2022 - June 2022_)  
+**Intern @ CDAC (_January 2022 - June 2022_)** 
 - Designed a CNN-based model with VGG-16 for malaria detection, achieving 96% classification accuracy, reducing diagnostic time by over 50%.
 - Processed large datasets using TensorFlow, enhancing model efficiency for reliable real-time diagnostics.
 
