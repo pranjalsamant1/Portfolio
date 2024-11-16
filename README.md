@@ -1,64 +1,55 @@
-# Pranjal Samant's GitHub Portfolio
+# Robotics Engineer
 
-#### Recent MSc Robotics Graduate | Software Engineer | Robotics & Automation
-
-## Objective
-With a Master’s in Robotics and a B-Tech in Electronics & Communication Engineering, I bring 5+ years of experience in robotics and programming. I am eager to apply my skills in ROS-based systems, automation, and collaborative autonomy to advance safe and efficient subsea operations as a Software Engineer at HonuWorx.
-
----
-
-## Skills
-- **Programming**: C, C#, C++, Python, MATLAB
-- **Robotics Middleware**: ROS, DDS, Webots, OpenCV
-- **Embedded Systems & Simulation**: Sensor interfacing, motor control, Gazebo simulation
-- **Machine Learning**: CNNs, TensorFlow
+#### Technical Skills: C, C#, C++, Python, MATLAB, ROS, DDS, Webots, OpenCV
 
 ## Education
-- **MSc Robotics** | Heriot-Watt University | Edinburgh, UK (_2023 - 2024_)
-- **B-Tech in Electronics and Communication Engineering** | SRM University | Chennai, India (_2018 - 2022_)
-
----
+- **MSc Robotics** | Heriot-Watt University, Edinburgh, UK (_2023 - 2024_)
+- **B-Tech in Electronics and Communication Engineering** | SRM University, Chennai, India (_2018 - 2022_)
 
 ## Work Experience
 
-**National Robotarium | Intern Engineer**  
-_06/2023 – 10/2023 | Edinburgh, United Kingdom_
+**Intern Engineer @ National Robotarium** (_June 2023 - October 2023_)  
+- Developed ROS-based control systems for a robotic arm (Franka Emmika) using MoveIt and motion planning algorithms, enhancing precision and automation.
+- Implemented vision-based object detection and tracking (YOLOv5, Intel RealSense) to improve robotic accuracy and reliability in automation tasks.
+- Optimized and tested robotic subsystems, including suction and sensor mechanisms, ensuring safety and performance.
+- Developed modular software architecture with Python and C++ for streamlined communication between control systems and robotic hardware.
 
-- Developed ROS-based control systems for robotic arms, enhancing precision and automation.
-- Implemented YOLOv5 and Intel RealSense for vision-based object detection and tracking.
-- Optimized robotic subsystems and modular software architecture for efficient system automation.
-
-**CDAC | Intern**  
-_01/2022 – 06/2022 | Chandigarh, India_
-
-- Designed a CNN model using VGG-16 for autonomous malaria detection, achieving 96% accuracy.
-- Processed and segmented datasets with TensorFlow, improving diagnostic efficiency in real-time applications.
+**Intern @ CDAC** (_January 2022 - June 2022_)  
+- Designed a CNN-based model with VGG-16 for malaria detection, achieving 96% classification accuracy, reducing diagnostic time by over 50%.
+- Processed large datasets using TensorFlow, enhancing model efficiency for reliable real-time diagnostics.
 
 ---
 
 ## Projects
 
 ### Robotic Arm Application (2024)
-Voice-command-driven robotic control system using AR and ROS, enabling hands-free operation in a Gazebo simulation.
+Designed a voice-command-driven robotic control system using AR, integrating ROS with a RealWear headset for intuitive, hands-free operation in a Gazebo simulation. Enhanced accessibility for complex robotics applications.
 
-- **Technologies**: ROS, Python, AR, Gazebo
+**Technologies**: ROS, AR, Gazebo, Python
 
 ### Autonomous Navigation System (2024)
-Developed behavior-based and evolutionary controllers for Mars rover navigation, optimizing path-following and obstacle avoidance.
+Developed behavior-based and evolutionary controllers for autonomous Mars rover navigation, optimizing for path-following, obstacle avoidance, and environmental adaptability.
 
-- **Technologies**: ROS, C++, Navigation Algorithms
+**Technologies**: ROS, C++, Navigation Algorithms
 
 ### 2D Image Printer (2023)
-Created an Arduino-driven MATLAB system to emulate dot matrix printing, drawing pixelated images on cylindrical surfaces.
+Engineered an image processing system in MATLAB, integrated with Arduino motor control, enabling a robot to draw pixelated images on cylindrical surfaces, simulating dot matrix printing.
 
-- **Technologies**: MATLAB, Arduino, Image Processing
+**Technologies**: MATLAB, Arduino, Image Processing
 
 ---
 
-## Contact
+## Publications & Blogs
+- **Vision-based Manipulation of Transparent Plastic Bags in Industrial Setups** - [arXiv](https://arxiv.org/abs/2411.09623)
 
-- **Location**: Edinburgh, UK
+---
+
+## Connect with Me
+I'm passionate about the future of robotics and would love to connect with other professionals and enthusiasts in the field. Reach out to discuss projects, collaborations, or opportunities!
+
 - **Email**: [pranjalsamant@outlook.com](mailto:pranjalsamant@outlook.com)
 - **LinkedIn**: [linkedin.com/in/pranjalsamant](https://www.linkedin.com/in/pranjalsamant)
 
-Thank you for visiting my GitHub portfolio! Explore my repositories to see more of my work and contributions.
+---
+
+Thank you for visiting my GitHub portfolio! Feel free to explore my repositories to see more of my work and contributions.
